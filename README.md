@@ -4,7 +4,7 @@ For the purpose of this assignment 2018 aggregated data was used from Citi Bike 
  
 The design includes about 14 visualizations of 2018 data. Along with 5 dashboards and 1 story.
 
-Click [hear] to open Tableau Dashboard (https://public.tableau.com/profile/niha4956#!/vizhome/CitiBikeAnalytics_15955510007700/FinalStory?publish=yes)
+Click [hear](https://public.tableau.com/profile/niha4956#!/vizhome/CitiBikeAnalytics_15955510007700/FinalStory?publish=yes)to open Tableau Dashboard
 
 Expected and unexpected phenomena
 1.	Total number of Annual members are higher that Customer who have a 24hr pass or 3day pass. This phenomenon was also proved with Citi Bike Daily Ridership and Membership Data.  
