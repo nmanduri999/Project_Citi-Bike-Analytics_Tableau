@@ -1,4 +1,5 @@
 # Project_Citi-Bike-Analytics_Tableau
+![](citi-bike-station-bikes.jpg)
 
 For the purpose of this project 2018 aggregated data was used from Citi Bike Trip History Logs and Citi Bike Daily Ridership and Membership Data. Data cleanup was done using jupyter notebook. 2018 data was huge. To avoid system crashing only 1 million rows were used. Two datasets were then joined in tableau to get answers to question the city officials have. 
  
