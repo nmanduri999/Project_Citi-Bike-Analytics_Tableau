@@ -23,3 +23,5 @@ Expected and unexpected phenomena
 
 
  4. Map of the stations with most popularity for start stations and end station. 
+ 
+ ![](StationMap.png)
