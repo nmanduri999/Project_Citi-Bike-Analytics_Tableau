@@ -14,6 +14,8 @@ Expected and unexpected phenomena
  ![](CustvsSub.png)
 
 2.	Peak hours of bike riders are at 8AM and 5PM during the day. This phenomenon is the same no matter the month of the year. 
+
+![](Peakhrsummer.png)
  
 
 3.	Trip duration for women is higher that men. Younger people tend to use bike a lot (ages: 16 to 30)
