@@ -19,4 +19,7 @@ Expected and unexpected phenomena
  
 
 3.	Trip duration for women is higher that men. Younger people tend to use bike a lot (ages: 16 to 30)
+![](Tripdurationpergender.png)
+
+
  
