@@ -10,6 +10,8 @@ Click [hear](https://public.tableau.com/profile/niha4956#!/vizhome/CitiBikeAnaly
 Expected and unexpected phenomena
 1.	Total number of Annual members are higher that Customer who have a 24hr pass or 3day pass. This phenomenon was also proved with Citi Bike Daily Ridership and Membership Data.  
  ![](PassesPerchasedperQ.png)
+ 
+ ![](CustvsSub.png)
 
 2.	Peak hours of bike riders are at 8AM and 5PM during the day. This phenomenon is the same no matter the month of the year. 
  
